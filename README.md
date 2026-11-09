@@ -50,6 +50,6 @@ Use of this mod is at your own discretion, particularly in competitive or online
 
 ## Credits
 
-- **Author:** [Your GitHub Username]
+- **Author:** codentman
 - **Game:** Nintendo / Sora Ltd.
 - **Character:** Sephiroth (Final Fantasy VII)
